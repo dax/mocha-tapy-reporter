@@ -1,0 +1,15 @@
+{
+  "name": "tapy-reporter",
+  "description": "Mocha TAPY reporter",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dax/mocha-tapy-reporter.git"
+  },
+  "dependencies": {
+    "mocha": "1.7.x"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
