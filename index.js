@@ -1,1 +1,1 @@
-module.exports = require('./lib/mocha-tapy-reporter');
+module.exports = require('./lib/tapy-reporter');
